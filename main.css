@@ -1,0 +1,10 @@
+body {
+    background-color: #111;
+    color: #146eb4
+}
+.joe {
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    width: 35%;
+  }
